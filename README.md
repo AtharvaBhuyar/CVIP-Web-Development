@@ -3,4 +3,4 @@
 
 🔵 Batch - October 2023
 
-Here, I have uploaded my solutions of Phase 1 in my Web Development Internship provided by CodersCave.
+Here, I have uploaded my solutions of Phase 1 and Phase 2 in my Web Development Internship provided by CodersCave.
